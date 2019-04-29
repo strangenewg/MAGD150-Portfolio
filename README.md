@@ -1,4 +1,4 @@
-## MAGD-150
+# MAGD-150 Portfolio
 ### Readme File
 
 This file contains examples of code I have done for MAGD-150 at UW-W.
